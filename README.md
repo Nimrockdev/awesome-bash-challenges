@@ -24,6 +24,5 @@
 
 
 <p align="center">
-  <a href="https://github.com/CodelyTV/awesome-bash-challenges/stargazers">Video😊</a>
+  <a href="https://pro.codely.com/library/tratamiento-de-datos-en-bash-gestiona-archivos-json-xml-yaml-194448/469007/path/step/227183079/">Video😊</a>
 </p>
-
